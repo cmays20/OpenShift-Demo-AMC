@@ -32,7 +32,7 @@
   path: /spec/template/spec/providerSpec/value/securityGroups/0/filters/0/values/0
   value: mays-demo-5v7d5-node
 - op: replace
-  path: /spec/template/spec/providerSpec/value/securityGroups/0/filters/0/values/0
+  path: /spec/template/spec/providerSpec/value/securityGroups/1/filters/0/values/0
   value: mays-demo-5v7d5-lb
 - op: replace
   path: /spec/template/spec/providerSpec/value/subnet/filters/0/values/0
